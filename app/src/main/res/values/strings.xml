@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WristMinderPro</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_signup_page">SignupPage</string>
+    <string name="title_activity_vertical_centered_text_field">VerticalCenteredTextField</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_screen">ActivityScreen</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="title_activity_upload">Upload</string>
+    <string name="title_activity_more">More</string>
+    <string name="title_activity_invite">Invite</string>
+    <string name="title_activity_help_us">HelpUs</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_forget">Forget</string>
+</resources>
